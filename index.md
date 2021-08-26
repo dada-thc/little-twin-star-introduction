@@ -1,3 +1,0 @@
----
-permalink: /description.html
----
